@@ -107,3 +107,5 @@ This project demonstrates the practical implementation of sentiment analysis usi
 Overall, the project provides a foundational understanding of sentiment analysis and serves as a basis for further exploration using advanced techniques such as deep learning models and contextual language representations.
 
 ## OUTPUT:
+
+<img width="731" height="563" alt="Image" src="https://github.com/user-attachments/assets/d9b7a936-01d2-4e72-a86b-2e87eda253ab" />
